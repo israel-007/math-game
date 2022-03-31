@@ -1,0 +1,1204 @@
+//QUESTIONS
+
+
+
+  {
+    "question": "42 + 35 = ?",
+    "answers": {
+      "right": "77",
+      "wrong_1": "67",
+      "wrong_2": "87",
+      "wrong_3": "76",
+      "image": ""
+    },
+    "class": "JSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "4 x 80 = ?",
+    "answers": {
+      "right": "320",
+      "wrong_1": "280",
+      "wrong_2": "260",
+      "wrong_3": "240",
+      "image": ""
+    },
+    "class": "JSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "2 : 9 = 8 : y",
+    "answers": {
+      "right": "36",
+      "wrong_1": "4",
+      "wrong_2": "18",
+      "wrong_3": "35",
+      "image": ""
+    },
+    "class": "JSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "106 x 106 - 94 x 94 = ?",
+    "answers": {
+      "right": "2400",
+      "wrong_1": "2004",
+      "wrong_2": "1904",
+      "wrong_3": "1906",
+      "image": ""
+    },
+    "class": "SSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "Composite numbers has ____________",
+    "answers": {
+      "right": "One factor",
+      "wrong_1": "More than two factor",
+      "wrong_2": "Infinite Factor",
+      "wrong_3": "Two factor",
+      "image": ""
+    },
+    "class": "SSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "Heights of a triangle always intersect in a single point",
+    "answers": {
+      "right": "yes",
+      "wrong_1": "no",
+      "wrong_2": "maybe",
+      "wrong_3": "none",
+      "image": ""
+    },
+    "class": "SSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "13 - 4 = ?",
+    "answers": {
+      "right": "9",
+      "wrong_1": "8",
+      "wrong_2": "7",
+      "wrong_3": "6",
+      "image": ""
+    },
+    "class": "JSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "Write 350 million as a decimal.",
+    "answers": {
+      "right": "0.00035",
+      "wrong_1": "0.0035",
+      "wrong_2": "0.35",
+      "wrong_3": "0.0035",
+      "image": ""
+    },
+    "class": "JSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "First four multiples of 7 are ______________________",
+    "answers": {
+      "right": "7, 14, 21, 28",
+      "wrong_1": "7, 9, 11, 13",
+      "wrong_2": "35, 42, 49, 56",
+      "wrong_3": "1, 2, 3, 5",
+      "image": ""
+    },
+    "class": "JSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "Type of polygon in which it's all angles and sides are equal is classified as",
+    "answers": {
+      "right": "regular polygon",
+      "wrong_1": "regular pentagon",
+      "wrong_2": "regular hexagon",
+      "wrong_3": "regular octagon",
+      "image": ""
+    },
+    "class": "SSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "2 x 7 x 2 = ?",
+    "answers": {
+      "right": "28",
+      "wrong_1": "30",
+      "wrong_2": "32",
+      "wrong_3": "15",
+      "image": ""
+    },
+    "class": "JSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "Formula used to measure circumference of circle is ?",
+    "answers": {
+      "right": "2?r",
+      "wrong_1": "?r2 + 2r",
+      "wrong_2": "?r2",
+      "wrong_3": "2r2",
+      "image": ""
+    },
+    "class": "SSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "(-10) + (-18) = ?",
+    "answers": {
+      "right": "(-28)",
+      "wrong_1": "28",
+      "wrong_2": "8",
+      "wrong_3": "(-8)",
+      "image": ""
+    },
+    "class": "JSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "On a line, sum of adjacent angles is equal to ?",
+    "answers": {
+      "right": "180degree",
+      "wrong_1": "90degree",
+      "wrong_2": "140degree",
+      "wrong_3": "120degree",
+      "image": ""
+    },
+    "class": "SSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "The value of x + x(xx) when x = 2 is _______________________________",
+    "answers": {
+      "right": "10",
+      "wrong_1": "16",
+      "wrong_2": "18",
+      "wrong_3": "36",
+      "image": ""
+    },
+    "class": "SSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "2,002 ml = ?",
+    "answers": {
+      "right": "2 l 2 ml",
+      "wrong_1": "200 l 2 ml",
+      "wrong_2": "100 l 3 ml",
+      "wrong_3": "none",
+      "image": ""
+    },
+    "class": "JSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "4 x 10,000 + 9 x 1 = ?",
+    "answers": {
+      "right": "40,009",
+      "wrong_1": "4,009",
+      "wrong_2": "40,090",
+      "wrong_3": "4,900",
+      "image": ""
+    },
+    "class": "JSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "2,500 + ? = 5,000",
+    "answers": {
+      "right": "2,500",
+      "wrong_1": "250",
+      "wrong_2": "25,000",
+      "wrong_3": "2,000",
+      "image": ""
+    },
+    "class": "JSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "Two positive numbers differ by 5 and square of their sum is 169 are __________________________",
+    "answers": {
+      "right": "4,9",
+      "wrong_1": "2,4",
+      "wrong_2": "5,6",
+      "wrong_3": "3,7",
+      "image": ""
+    },
+    "class": "JSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "? + 8 = 9",
+    "answers": {
+      "right": "1",
+      "wrong_1": "2",
+      "wrong_2": "3",
+      "wrong_3": "4",
+      "image": ""
+    },
+    "class": "JSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "The square root of 0.0081 is ______________________",
+    "answers": {
+      "right": "0.09",
+      "wrong_1": "0.9",
+      "wrong_2": "0.91",
+      "wrong_3": "0.009",
+      "image": ""
+    },
+    "class": "SSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "Median of 7, 6, 4, 8, 2, 5, 11 is _________________________________",
+    "answers": {
+      "right": "6",
+      "wrong_1": "12",
+      "wrong_2": "11",
+      "wrong_3": "4",
+      "image": ""
+    },
+    "class": "JSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "The car's speedometer shows a speed of 80 km/h. What distance would a car travel in the next 3 hours if it stayed at a constant speed of 80.",
+    "answers": {
+      "right": "240 km",
+      "wrong_1": "280 km",
+      "wrong_2": "160 km",
+      "wrong_3": "200 km",
+      "image": ""
+    },
+    "class": "SSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "If E = {a,b,c,d,e} and A = {a,b,c} then A is",
+    "answers": {
+      "right": "subset of E",
+      "wrong_1": "universal set",
+      "wrong_2": "superset",
+      "wrong_3": "null set",
+      "image": ""
+    },
+    "class": "SSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "A number is multiplied by itself and the product is 169. Find the number.",
+    "answers": {
+      "right": "13",
+      "wrong_1": "10",
+      "wrong_2": "11",
+      "wrong_3": "15",
+      "image": ""
+    },
+    "class": "JSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "5y-5 = 40. y = ?",
+    "answers": {
+      "right": "9",
+      "wrong_1": "10",
+      "wrong_2": "6",
+      "wrong_3": "8",
+      "image": ""
+    },
+    "class": "JSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "If car travels at average speed of 30km/h in 7 hours then distance travelled by car is __________________________",
+    "answers": {
+      "right": "210km",
+      "wrong_1": "250km",
+      "wrong_2": "220km",
+      "wrong_3": "240km",
+      "image": ""
+    },
+    "class": "JSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "A clock strikes once at 1 o'clock, twice at 2 o'clock, thrice at 3 o'clock and so on. How many times will it strike in 24 hours?",
+    "answers": {
+      "right": "156",
+      "wrong_1": "78",
+      "wrong_2": "136",
+      "wrong_3": "196",
+      "image": ""
+    },
+    "class": "SSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "x : y for 5x = 7y is ?",
+    "answers": {
+      "right": "7:05",
+      "wrong_1": "5:07",
+      "wrong_2": "6:01",
+      "wrong_3": "7:01",
+      "image": ""
+    },
+    "class": "SSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "-199 ? | 199 |",
+    "answers": {
+      "right": " < ",
+      "wrong_1": ">",
+      "wrong_2": "=",
+      "wrong_3": "none",
+      "image": ""
+    },
+    "class": "SSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "Ratio to decrease 54 to 42 is ?",
+    "answers": {
+      "right": "9:7",
+      "wrong_1": "3:07",
+      "wrong_2": "4:07",
+      "wrong_3": "5:07",
+      "image": ""
+    },
+    "class": "SSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "1 h = ? s",
+    "answers": {
+      "right": "3,600",
+      "wrong_1": "4,000",
+      "wrong_2": "3,000",
+      "wrong_3": "4,600",
+      "image": ""
+    },
+    "class": "JSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "According to index notation, prime factors of 68 are ?",
+    "answers": {
+      "right": "22 x 17",
+      "wrong_1": "23 x 17",
+      "wrong_2": "22 x 5 x 17",
+      "wrong_3": "23 x 5 x 17",
+      "image": ""
+    },
+    "class": "SSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "According to Pythagoras theorem, distance between points (-3, 8) and (8,-5) is ?",
+    "answers": {
+      "right": "17.03 units",
+      "wrong_1": "19.03 units",
+      "wrong_2": "11.03 units",
+      "wrong_3": "15.03 units",
+      "image": ""
+    },
+    "class": "SSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "Prime factors in form of index notation are ?",
+    "answers": {
+      "right": "24 x 3 x 5",
+      "wrong_1": "22 x 5",
+      "wrong_2": "23 x 3 x 5",
+      "wrong_3": "22 x 3 x 5",
+      "image": ""
+    },
+    "class": "SSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "10 x 5 x 2 = ?",
+    "answers": {
+      "right": "100",
+      "wrong_1": "50",
+      "wrong_2": "40",
+      "wrong_3": "25",
+      "image": ""
+    },
+    "class": "JSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "11 - 8 = ?",
+    "answers": {
+      "right": "3",
+      "wrong_1": "4",
+      "wrong_2": "2",
+      "wrong_3": "5",
+      "image": ""
+    },
+    "class": "JSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "Solving e+é?2+é?3=11 gives result",
+    "answers": {
+      "right": "é =11",
+      "wrong_1": "é =10",
+      "wrong_2": "é =13",
+      "wrong_3": "é =12",
+      "image": ""
+    },
+    "class": "SSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "If an article costs $350 with 6% GST then price customer has to pay is ?",
+    "answers": {
+      "right": "$371",
+      "wrong_1": "$362",
+      "wrong_2": "$351",
+      "wrong_3": "$341",
+      "image": ""
+    },
+    "class": "SSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "If a car travels at an average speed 25m/s then average speed in km/h is ____________________________",
+    "answers": {
+      "right": "90 km/h",
+      "wrong_1": "96 km/h",
+      "wrong_2": "95 km/h",
+      "wrong_3": "85 km/h",
+      "image": ""
+    },
+    "class": "JSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "Fill in the blanks; 4,6,12,14,28,30,(?)",
+    "answers": {
+      "right": "60",
+      "wrong_1": "62",
+      "wrong_2": "64",
+      "wrong_3": "32",
+      "image": ""
+    },
+    "class": "JSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "Write the expression, the difference of a number and 5, divided by 2.",
+    "answers": {
+      "right": "(x-5) ÷ 2",
+      "wrong_1": "x÷2-5",
+      "wrong_2": "x-5÷2",
+      "wrong_3": "2÷(5-x)",
+      "image": ""
+    },
+    "class": "JSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "A scale of map is 1cm to 5km, distance between two towns 38km apart is",
+    "answers": {
+      "right": "7.6cm",
+      "wrong_1": "6.7cm",
+      "wrong_2": "5cm",
+      "wrong_3": "0.5cm",
+      "image": ""
+    },
+    "class": "SSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "? x 12 = 108",
+    "answers": {
+      "right": "9",
+      "wrong_1": "10",
+      "wrong_2": "11",
+      "wrong_3": "12",
+      "image": ""
+    },
+    "class": "JSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "54/100 = ?",
+    "answers": {
+      "right": "0.54",
+      "wrong_1": "9",
+      "wrong_2": "0.9",
+      "wrong_3": "5.4",
+      "image": ""
+    },
+    "class": "JSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "4-(-3) = ?",
+    "answers": {
+      "right": "7",
+      "wrong_1": "(-7)",
+      "wrong_2": "(-1)",
+      "wrong_3": "1",
+      "image": ""
+    },
+    "class": "SSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "1/101 ? 1/110",
+    "answers": {
+      "right": ">",
+      "wrong_1": " < ",
+      "wrong_2": "=",
+      "wrong_3": "?",
+      "image": ""
+    },
+    "class": "SSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "The average of first 50 natural number is _____________________.",
+    "answers": {
+      "right": "25.5",
+      "wrong_1": "25.3",
+      "wrong_2": "25",
+      "wrong_3": "12.25",
+      "image": ""
+    },
+    "class": "SSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "142 x 16 = ?",
+    "answers": {
+      "right": "2272",
+      "wrong_1": "7222",
+      "wrong_2": "2227",
+      "wrong_3": "2722",
+      "image": ""
+    },
+    "class": "SSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "3456 ÷ 12 ÷ 8 = ?",
+    "answers": {
+      "right": "36",
+      "wrong_1": "36.5",
+      "wrong_2": "33.5",
+      "wrong_3": "33",
+      "image": ""
+    },
+    "class": "SSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "Factor: 3y(x – 3) -2(x – 3).",
+    "answers": {
+      "right": "(x – 3)(3y – 2)",
+      "wrong_1": "(x – 3)2",
+      "wrong_2": "(x – 3)(x – 3)",
+      "wrong_3": "3y(x – 3)",
+      "image": ""
+    },
+    "class": "JSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "By solving algebral expression 8x?8-(2x-2)?4, answer will be ",
+    "answers": {
+      "right": "(4x + 4)?8",
+      "wrong_1": "(2x + 3)?8",
+      "wrong_2": "(4x + 3)?5",
+      "wrong_3": "(4x - 4)?8",
+      "image": ""
+    },
+    "class": "SSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "By dividing 104 by -13, quotient will be",
+    "answers": {
+      "right": "?18",
+      "wrong_1": "8",
+      "wrong_2": "?9",
+      "wrong_3": "9",
+      "image": ""
+    },
+    "class": "SSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "Compare: 300 s ? 30 min",
+    "answers": {
+      "right": " < ",
+      "wrong_1": ">",
+      "wrong_2": "=",
+      "wrong_3": "none",
+      "image": ""
+    },
+    "class": "JSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "Given are the lengths of two sides of a triangle. Fine the range of the lengths for the third side.  a = 10,  b = 9",
+    "answers": {
+      "right": "1 < c < 19",
+      "wrong_1": "0 < c < 19",
+      "wrong_2": "1 < c < 15",
+      "wrong_3": "1 < c < 16",
+      "image": ""
+    },
+    "class": "SSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": " Factor: 5x2 – 15x – 20.",
+    "answers": {
+      "right": "5(x-4)(x+1)",
+      "wrong_1": "-2(x-4)(x+5)",
+      "wrong_2": "5(x+4)(x+1)",
+      "wrong_3": "-5(x+4)(x-1)",
+      "image": ""
+    },
+    "class": "JSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "10-2 means _________________________",
+    "answers": {
+      "right": "milli",
+      "wrong_1": "centi",
+      "wrong_2": "micro",
+      "wrong_3": "deci",
+      "image": ""
+    },
+    "class": "SSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "Which is greater than 4?",
+    "answers": {
+      "right": "5",
+      "wrong_1": "-5",
+      "wrong_2": "-1/2",
+      "wrong_3": "-25",
+      "image": ""
+    },
+    "class": "SSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "What is the sum of 5 x 3 - 3 x 2 - 1 and 3 x 2 + 1?",
+    "answers": {
+      "right": "5x3",
+      "wrong_1": "6x2",
+      "wrong_2": "5x",
+      "wrong_3": "3x2",
+      "image": ""
+    },
+    "class": "SSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "1/4 ? 1/2",
+    "answers": {
+      "right": " < ",
+      "wrong_1": ">",
+      "wrong_2": "=",
+      "wrong_3": " ? ",
+      "image": ""
+    },
+    "class": "JSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "0.0813",
+    "answers": {
+      "right": "8.13%",
+      "wrong_1": "0.813%",
+      "wrong_2": "81.3%",
+      "wrong_3": "81.03%",
+      "image": ""
+    },
+    "class": "SSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "500 + 3,500 = ?",
+    "answers": {
+      "right": "4,000",
+      "wrong_1": "3,900",
+      "wrong_2": "7,500",
+      "wrong_3": "8,500",
+      "image": ""
+    },
+    "class": "JSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "Convert to percent. 0.004",
+    "answers": {
+      "right": "0.4%",
+      "wrong_1": "4%",
+      "wrong_2": "40%",
+      "wrong_3": "400%",
+      "image": ""
+    },
+    "class": "JSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "(1/8) ÷ (2/3 ÷ 1/6) = ?",
+    "answers": {
+      "right": "-1/32",
+      "wrong_1": "0.5",
+      "wrong_2": "-0.5",
+      "wrong_3": "0.5",
+      "image": ""
+    },
+    "class": "SSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "Y is inversely proportional to x, y = 3 when x = 4, value of y when x = 6 is ?",
+    "answers": {
+      "right": "2",
+      "wrong_1": "6",
+      "wrong_2": "8",
+      "wrong_3": "10",
+      "image": ""
+    },
+    "class": "SSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "210 s = ?",
+    "answers": {
+      "right": "3 min 30 s",
+      "wrong_1": "2 min 30 s",
+      "wrong_2": "3 min 20 s",
+      "wrong_3": "2 min 30 s",
+      "image": ""
+    },
+    "class": "JSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "? x 5 = 25",
+    "answers": {
+      "right": "5",
+      "wrong_1": "55",
+      "wrong_2": "4",
+      "wrong_3": "8\\",
+      "image": ""
+    },
+    "class": "JSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "40 x 7 = ?",
+    "answers": {
+      "right": "280",
+      "wrong_1": "240",
+      "wrong_2": "230",
+      "wrong_3": "210",
+      "image": ""
+    },
+    "class": "JSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "y ÷ 7 = 8. y = ?",
+    "answers": {
+      "right": "56",
+      "wrong_1": "54",
+      "wrong_2": "15",
+      "wrong_3": "16",
+      "image": ""
+    },
+    "class": "JSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "Answer of (-126?14)+2 is",
+    "answers": {
+      "right": "?7",
+      "wrong_1": "7",
+      "wrong_2": "8",
+      "wrong_3": "?8",
+      "image": ""
+    },
+    "class": "SSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "If we solve following expression (d + 3) ?3 - (2d -3) ?2 = d -5?6",
+    "answers": {
+      "right": "d = 2",
+      "wrong_1": "d = 1",
+      "wrong_2": "d = 6",
+      "wrong_3": "d = 15",
+      "image": ""
+    },
+    "class": "SSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "What is the correct name for a million million?",
+    "answers": {
+      "right": "Trillion",
+      "wrong_1": "Billion",
+      "wrong_2": "Million",
+      "wrong_3": "Thousand",
+      "image": ""
+    },
+    "class": "JSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "8 - 4 = ?",
+    "answers": {
+      "right": "4",
+      "wrong_1": "5",
+      "wrong_2": "3",
+      "wrong_3": "6",
+      "image": ""
+    },
+    "class": "JSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "603 x 4",
+    "answers": {
+      "right": "2412",
+      "wrong_1": "1224",
+      "wrong_2": "4212",
+      "wrong_3": "2142",
+      "image": ""
+    },
+    "class": "JSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "Convert to decimal. 200%",
+    "answers": {
+      "right": "2",
+      "wrong_1": "0.02",
+      "wrong_2": "0.2",
+      "wrong_3": "20",
+      "image": ""
+    },
+    "class": "SSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "3.8 kg = ? g",
+    "answers": {
+      "right": "3,800",
+      "wrong_1": "380",
+      "wrong_2": "3,080",
+      "wrong_3": "3008",
+      "image": ""
+    },
+    "class": "JSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "Out of following fractions 3 1?3, 6 2?3 1?3 and 1?2 fraction which can be expressed as non ? recurring decimals is",
+    "answers": {
+      "right": "6 2/3",
+      "wrong_1": "3 1/3",
+      "wrong_2": "1/3",
+      "wrong_3": "1/2",
+      "image": ""
+    },
+    "class": "SSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "46 + 26 = ?",
+    "answers": {
+      "right": "72",
+      "wrong_1": "62",
+      "wrong_2": "82",
+      "wrong_3": "42",
+      "image": ""
+    },
+    "class": "JSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "The cost of wheat has decreased in ratio 3:4. If the original price was $9 then decreased price is ?",
+    "answers": {
+      "right": "$6.75",
+      "wrong_1": "$5.75",
+      "wrong_2": "$4.75",
+      "wrong_3": "$7.75",
+      "image": ""
+    },
+    "class": "SSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "87 x 13 = ?",
+    "answers": {
+      "right": "1131",
+      "wrong_1": "1121",
+      "wrong_2": "3111",
+      "wrong_3": "2111",
+      "image": ""
+    },
+    "class": "JSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "5 = 5y-5. Y=?",
+    "answers": {
+      "right": "2",
+      "wrong_1": "0",
+      "wrong_2": "25",
+      "wrong_3": "5",
+      "image": ""
+    },
+    "class": "JSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "7 x 6 = ?",
+    "answers": {
+      "right": "42",
+      "wrong_1": "44",
+      "wrong_2": "40",
+      "wrong_3": "38",
+      "image": ""
+    },
+    "class": "JSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "If a line passes through point A(0,c) and has gradient 'm' then equation will be ?",
+    "answers": {
+      "right": "y = mx + c",
+      "wrong_1": "c = xy +m",
+      "wrong_2": "m = xy + c",
+      "wrong_3": "cx = y + m",
+      "image": ""
+    },
+    "class": "SSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "Measure of chance is known as _____________________",
+    "answers": {
+      "right": "Probability",
+      "wrong_1": "Geometry",
+      "wrong_2": "Statistics",
+      "wrong_3": "None of these",
+      "image": ""
+    },
+    "class": "JSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "What is 1004 divided by 2?",
+    "answers": {
+      "right": "502",
+      "wrong_1": "52",
+      "wrong_2": "520",
+      "wrong_3": "5002",
+      "image": ""
+    },
+    "class": "SSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "3 ÷ 4 = ?",
+    "answers": {
+      "right": "0.75",
+      "wrong_1": "0.8",
+      "wrong_2": "0.5",
+      "wrong_3": "1.33",
+      "image": ""
+    },
+    "class": "SSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "Multiply: (x – 4)(x + 5)",
+    "answers": {
+      "right": "x2 + x - 20",
+      "wrong_1": "x2 - x - 20",
+      "wrong_2": "x2 - 4x - 20",
+      "wrong_3": "x2 + 5x - 20",
+      "image": ""
+    },
+    "class": "JSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "Polygon is said to be convex polygon if none of its interior angles is",
+    "answers": {
+      "right": "reflex angle",
+      "wrong_1": "obtuse angle",
+      "wrong_2": "acute angle",
+      "wrong_3": "right angle",
+      "image": ""
+    },
+    "class": "SSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "What is the remainder after whole number division? 24 / 3",
+    "answers": {
+      "right": "0",
+      "wrong_1": "1",
+      "wrong_2": "5",
+      "wrong_3": "2",
+      "image": ""
+    },
+    "class": "JSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "What is the angle the hour hand of a clock makes with hand when the time is 15.40?",
+    "answers": {
+      "right": "130 and 75",
+      "wrong_1": "110",
+      "wrong_2": "120",
+      "wrong_3": "125",
+      "image": ""
+    },
+    "class": "JSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "Cost of rice is increased in ratio 7:5. If original price is $10 then the increased price is ?",
+    "answers": {
+      "right": "14",
+      "wrong_1": "16",
+      "wrong_2": "18",
+      "wrong_3": "15",
+      "image": ""
+    },
+    "class": "SSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "Prime factors of 98 in form of index notation are ?",
+    "answers": {
+      "right": "2 x 72",
+      "wrong_1": "2 x 73",
+      "wrong_2": "2 x 52",
+      "wrong_3": "2 x 5 x 72",
+      "image": ""
+    },
+    "class": "SSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "Out of following rational number 3?5, 3?4, 1 4?5 and 2?3, fraction which can be expressed in recurring decimals is",
+    "answers": {
+      "right": "2/3",
+      "wrong_1": "3/5",
+      "wrong_2": "3/4",
+      "wrong_3": "1 4/5",
+      "image": ""
+    },
+    "class": "SSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "0.07 ÷ 0.7 = ?",
+    "answers": {
+      "right": "0.1",
+      "wrong_1": "1",
+      "wrong_2": "0",
+      "wrong_3": "100",
+      "image": ""
+    },
+    "class": "SSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "Ratio 36:27:54 can be written in its simplest form as",
+    "answers": {
+      "right": "4:03:06",
+      "wrong_1": "2:03:04",
+      "wrong_2": "3:04:5",
+      "wrong_3": "6:03:06",
+      "image": ""
+    },
+    "class": "SSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "100/200 = ?",
+    "answers": {
+      "right": "0.5",
+      "wrong_1": "0.005",
+      "wrong_2": "1",
+      "wrong_3": "0.1",
+      "image": ""
+    },
+    "class": "JSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "Largest prime number less than 20 is _______________",
+    "answers": {
+      "right": "19",
+      "wrong_1": "16",
+      "wrong_2": "15",
+      "wrong_3": "18",
+      "image": ""
+    },
+    "class": "SSS 2",
+    "subject": "Math"
+  },
+  {
+    "question": "8/3 ? 3",
+    "answers": {
+      "right": " < ",
+      "wrong_1": ">",
+      "wrong_2": "=",
+      "wrong_3": " ? ",
+      "image": ""
+    },
+    "class": "JSS 3",
+    "subject": "Math"
+  },
+  {
+    "question": "(3 + ?) > 11",
+    "answers": {
+      "right": "9",
+      "wrong_1": "8",
+      "wrong_2": "7",
+      "wrong_3": "6",
+      "image": ""
+    },
+    "class": "JSS 1",
+    "subject": "Math"
+  },
+  {
+    "question": "In a school, 8% of students speak French. If there are 16 French speakers, how many students are there?",
+    "answers": {
+      "right": "200",
+      "wrong_1": "160",
+      "wrong_2": "128",
+      "wrong_3": "800",
+      "image": ""
+    },
+    "class": "SSS 3",
+    "subject": "Math"
+  }
